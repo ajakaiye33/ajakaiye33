@@ -9,7 +9,7 @@
 
 </p>
 
-<br><br>    🔭 I’m  AWS Certified Machine Learning Specialist,however these days I'm more drawn towards Data Plumbing<br><br>    👯 I’m looking to collaborate on Machine Learning, Data Engineering and SQL Projects Involving AWS/GCP Cloud, Data Orchestration And Serverless Pipelines<br><br>    👨‍💻 My writeups can be found at - ![DataBulbs]("https://ajakaiye33.github.io/")<br>
+<br><br>    🔭 I’m  AWS Certified Machine Learning Specialist,however these days I'm more drawn towards Data Plumbing<br><br>    👯 I’m looking to collaborate on Machine Learning, Data Engineering and SQL Projects Involving AWS/GCP Cloud, Data Orchestration And Serverless Pipelines<br><br>    👨‍💻 My writeups can be found at -![DataBulbs]("https://ajakaiye33.github.io/")<br>
 
 
 
@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajakaiye33&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajakaiye33&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
       </td>
       <td>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ajakaiye33&theme=highcontrast&hide_border=false" />
