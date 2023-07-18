@@ -38,11 +38,11 @@
 </details>
 
 
-
-
 <details>
 	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>My Stack</b></summary>
 	<br/>
+ 
+![PyScaffold](https://img.shields.io/badge/-PyScaffold-05122A?style=flat&logo=pyscaffold&logoColor=005CA0)&nbsp;	
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=6EA5C6)&nbsp;
@@ -51,9 +51,12 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
 ![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark&logoColor=E25A1C)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)&nbsp;
+![Conda-Forge](https://img.shields.io/badge/-Conda--Forge-05122A?style=flat&logo=conda-forge&logoColor=FFFFFF)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=7CD68D)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Lab-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![PyPI](https://img.shields.io/badge/-PyPI-05122A?style=flat&logo=pypi&logoColor=3775A9)&nbsp;
+![pre-commit](https://img.shields.io/badge/-pre--commit-05122A?style=flat&logo=pre-commit&logoColor=FAB040)&nbsp;
+![Cirrus CI](https://img.shields.io/badge/-Cirrus_CI-05122A?style=flat&logo=cirrus-ci&logoColor=4051B5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=#F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -67,11 +70,3 @@
 ![Wikipedia](https://img.shields.io/badge/-Wikipedia-05122A?style=flat&logo=wikipedia&logoColor=FFFFFF)&nbsp;
 ![Stack-Overflow](https://img.shields.io/badge/-Stack--Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025)&nbsp;
 </details>
-
-
-
-
-
-
-
-
